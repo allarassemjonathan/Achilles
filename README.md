@@ -1,3 +1,3 @@
 # Achilles
 
-Achilles is a software to find languages of the outputs.
+Achilles is a software to find languages of the inputs.
