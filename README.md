@@ -1,4 +1,4 @@
-# Achilles
+# Achilles (Achilles and Eshu)
 
 Achilles is the name of the project grouping numerous software using different n-grams to guess the language of the input givent by the user.
 It uses bigrams or quatergrams most of the time to build a probability distribution model. The model presents the probability of getting certain combinations of characters depending on the language.
