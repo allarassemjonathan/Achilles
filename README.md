@@ -8,6 +8,11 @@ The more dataset you give to the algorithm the better it will get. With 20 books
 
 # Best Software
 
+## Achilles
+Achilles is the first language detector software. It uses bigrams (n-grams with n=2) to guess the correct language. It was the first trial to make a language detector and since it got improve using n-grams with n=4. the new version is named Eshu. 
+
 ## Eshu
 The best software so far is using n-grams with n=4. It doesn slightly better than bigrams (n=2). The name of the software is Eshu. It is named after the 
 Yoruba god of knowledge.
+
+
